@@ -1,0 +1,444 @@
+[
+    {
+      "id": 1,
+      "name": "Apron Full Hands upto Knee",
+      "sizes": ["38", "40", "42", "44"],
+      "image": "img/Apron_Full_Hands_1.webp",
+      "category": "Hospital",
+      "price":"550",
+      "colors": [
+        { "name": "White", "image": "img/Apron_Full_Hands_1.webp" }
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 550 },
+        { "label": "Premium Rate", "price": 500 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Apron",
+      "sizes": ["38", "40", "42", "44"],
+      "image": "img/apron_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"450",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/apron_p1_img_1.webp" },
+        { "name": "Pink", "image": "img/apron_p2_img_1.webp" },
+      
+        { "name": "Light Gray", "image": "img/apron_p3_img_1.webp" }
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 450 },
+        { "label": "Premium Rate", "price": 400 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Doctor Shirt and Phyazama",
+      "sizes": ["38", "40", "42", "44"],
+      "image": "img/doctor_shirt_and_phyzama_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"650",
+      "colors": [
+        { "name": "Blue", "image": "img/doctor_shirt_and_phyzama_p1_img_1.webp" },
+        { "name": "Green", "image": "img/doctor_shirt_and_phyzama_p3_img_1.webp" }
+      
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 650 },
+        { "label": "Premium Rate", "price": 600 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Theater Boy Dresses",
+      "sizes": ["38", "40", "42", "44"],
+      "image": "img/Threater_boy_dresses_p1_img_1_1.webp",
+      "category": "Hospital",
+      "price":"650",
+      "colors": [
+        { "name": "Green Ash", "image": "img/Threater_boy_dresses_p1_img_1_1.webp" },
+        { "name": "Green", "image": "img/Threater_boy_dresses_p2_img_1_1.webp" },
+        { "name": "Gray", "image": "img/Threater_boy_dresses_p3_img_1_1.webp" }
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 650 },
+        { "label": "Premium Rate", "price": 600 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Surgeon Gown",
+      "sizes": ["38", "40", "42", "44"],
+      "image": "img/Surgeon_Gown_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"550",
+      "colors": [
+        { "name": "Sky Blue", "image": "img/Surgeon_Gown_p1_img_1.webp" },
+        { "name": "Green", "image": "img/Surgeon_Gown_p2_img_1.webp" },
+        { "name": "Slate Gray", "image": "img/Surgeon_Gown_p3_img_1.webp" }
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 550 },
+        { "label": "Premium Rate", "price": 500 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ortho Surgeon Gown",
+      "sizes": [],
+      "image": "img/ortho_doctor_gown_p2_img_1.webp",
+      "category": "Hospital",
+      "price":"650",
+      "colors": [
+       
+        { "name": "Green", "image": "img/ortho_doctor_gown_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/ortho_doctor_gown_p1_img_1.webp" }
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 650 },
+        { "label": "Premium Rate", "price": 575 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Patient Gown",
+      "sizes": [],
+      "image": "img/Patient_gown_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"450",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/Patient_gown_p1_img_1.webp" },
+        { "name": "Green", "image": "img/Patient_gown_p2_img_1.webp" }
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 450 },
+        { "label": "Premium Rate", "price": 400 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sister's Gown",
+      "sizes": [],
+      "image": "img/Sisters_GOWN_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"500",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/Sisters_GOWN_p1_img_1.webp" },
+        { "name": "Green", "image": "img/Sisters_GOWN_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/Sisters_GOWN_p3_img_1.webp" }
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 500 },
+        { "label": "Premium Rate", "price": 450 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Sister's Uniform",
+      "sizes": ["38", "40", "42", "44"],
+      "image": "img/sisters_uniform_p2_img_1.webp",
+      "category": "Hospital",
+      "price":"850",
+      "colors": [
+       
+       
+        { "name": "Green", "image": "img/sisters_uniform_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/sisters_uniform_p1_img_1.webp" },
+        { "name": "Brown", "image": "img/sisters_uniform_p3_img_1.webp" }
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 850 },
+        { "label": "Premium Rate", "price": 750 }
+      ]
+    },
+  
+    {
+      "id": 10,
+      "name": "Towel (40 x 40) Plain / Hole",
+      "sizes": ["40 x 40"],
+      "image": "img/towels_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"150",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/towels_p1_img_1.webp" },
+        { "name": "Green", "image": "img/towels_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/towels_p3_img_1.webp" }
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 150 }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Towel (40 x 56) Plain / Hole",
+      "sizes": ["40 x 56"],
+      "image": "img/towels_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"250",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/towels_p1_img_1.webp" },
+        { "name": "Green", "image": "img/towels_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/towels_p3_img_1.webp" }
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 250 }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Towel (54 x 72) Plain / Hole",
+      "sizes": ["54 x 72"],
+      "image": "img/towels_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"350",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/towels_p1_img_1.webp" },
+        { "name": "Green", "image": "img/towels_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/towels_p3_img_1.webp" }
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 350 }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Instrument Towels (40 x 40)",
+      "sizes": ["40 x 40"],
+      "image": "img/instrumental towel.webp",
+      "category": "Hospital",
+      "price":"150",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 150 }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Cap",
+      "sizes": [],
+      "image": "img/caps_p1_img_1.webp",
+      "category": "Hospital",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/caps_p1_img_1.webp" },
+        { "name": "Green", "image": "img/caps_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/caps_p3_img_1.webp" }
+        
+      ],
+      "price":"50",
+      "type": [
+        { "label": "Delux Rate", "price": 50 }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mask",
+      "sizes": [],
+      "image": "img/mask_p1_img_1.webp",
+      "category": "Hospital",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/mask_p1_img_1.webp" },
+        { "name": "Green", "image": "img/mask_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/mask_p3_img_1.webp" }
+        
+      ],
+      "price":"50",
+      "type": [
+        { "label": "Delux Rate", "price": 50 }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Surgical Mops (12x12, 7 x 21)",
+      "sizes": ["12 x 12", "7 x 21"],
+      "image": "img/mop_white_1.webp",
+      "category": "Hospital",
+      "price":"40",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 40 }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Radiataed Mop (12x12, 7 x 21)",
+      "sizes": ["12 x 12", "7 x 21"],
+      "image": "img/radiateted_mop_1.webp",
+      "category": "Hospital",
+      "price":"50",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 50 }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Leggins (Pair)",
+      "sizes": [],
+      "image": "img/legs2.webp",
+      "category": "Hospital",
+      "price":"200",
+      "colors": [
+       
+        { "name": "Sky Blue", "image": "img/legs2.webp" },
+        { "name": "Red", "image": "img/legins1.webp" }
+     
+        
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 200 }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Plastic Apron",
+      "sizes": [],
+      "image": "img/plastic_Apron_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"250",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 250 }
+      ]
+    },
+  
+    {
+      "id": 20,
+      "name": "Bed Sheet with Hospital Name",
+      "sizes": [],
+      "image": "img/bed_sheets_p1_img_1.webp",
+      "category": "Hospital",
+      "price":"350",
+      "colors": [
+        
+        { "name": "Sky Blue", "image": "img/bed_sheets_p1_img_1.webp" },
+        { "name": "Smokey Grey", "image": "img/bed_sheets_p2_img_1.webp" },
+        { "name": "Clay Ash", "image": "img/bed_sheets_p3_img_1.webp" }
+  
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 350 }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Pillow covers with Hospital Name",
+      "sizes": [],
+      "image": "img/pillows_p2_img_1.webp",
+      "category": "Hospital",
+      "price":"125",
+      "colors": [
+        { "name": "Green", "image": "img/pillows_p1_img_1.webp" },
+        { "name": "Sky Blue", "image": "img/pillows_p2_img_1.webp" },
+        { "name": "Ash", "image": "img/pillows_p3_img_1.webp" }
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 125 }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Aya Sarees, Spl. Quality",
+      "sizes": [],
+      "image": "img/green.webp",
+      "category": "Hospital",
+      "price":"350",
+      "colors": [
+     
+        { "name": "Green", "image": "img/green.webp"},
+        { "name": "Dusty Rose", "image": "img/dustyrose.webp"},
+        { "name": "Teal Green", "image": "img/telgreen.webp"},
+        { "name": "Cream", "image": "img/craem.webp"},
+        { "name": "Muted Olive", "image": "img/muredolive.webp"},
+        { "name": "Golden Orange", "image": "img/golden oranfge.webp"},
+        { "name": "Saffron", "image": "img/safroon.webp"},
+        { "name": "Maroon", "image": "img/maroon.webp"},
+        { "name": "Peacock Blue", "image": "img/peacockblue.webp"},
+        { "name": "Peach Beige", "image": "img/peachbeige.webp"},
+        { "name": "Powder Blue", "image": "img/powderblue.webp"},
+        { "name": "Mushroom", "image": "img/mushrom.webp"},
+        { "name": "Camel", "image": "img/camel.webp"},
+        { "name": "Reddish Brown", "image": "img/reddishbrown.webp"}
+      
+      ],
+      "type": [
+        { "label": "Delux Rate", "price": 350 }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Labour Room Sheet",
+      "sizes": [],
+      "image": "img/labour table sheet.webp",
+      "category": "Hospital",
+      "price":"450",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 450 }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "OT Table Sheet",
+      "sizes": [],
+      "image": "img/page1_img1.webp",
+      "category": "Hospital",
+      "price":"450",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 450 }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strecher Draw Sheet",
+      "sizes": [],
+      "image": "img/Strcher_draw_sheet_1.webp",
+      "category": "Hospital",
+      "price":"450",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 450 }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Patient Lifting Sheet",
+      "sizes": [],
+      "image": "img/patient_lifting_sheet_1.webp",
+      "category": "Hospital",
+      "price":"850",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 850 }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Mattresses cover",
+      "sizes": [],
+      "image": "img/bed_mattress_cover_1.webp",
+      "category": "Hospital",
+      "price":"550",
+      "colors": [],
+      "type": [
+        { "label": "Delux Rate", "price": 550 }
+      ]
+    }
+  
+  ]
+  
