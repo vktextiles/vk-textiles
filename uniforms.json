@@ -263,9 +263,9 @@
     },
     {
       "id": 16,
-      "name": "Surgical Mops (12x12, 7 x 21)",
+      "name": "Surgical Mop",
       "sizes": ["12 x 12", "7 x 21"],
-      "image": "img/mop_white_1.webp",
+      "image": "img/surgical mop.jpg",
       "category": "Hospital",
       "price":"40",
       "colors": [],
@@ -326,8 +326,8 @@
       "colors": [
         
         { "name": "Sky Blue", "image": "img/bed_sheets_p1_img_1.webp" },
-        { "name": "Smokey Grey", "image": "img/bed_sheets_p2_img_1.webp" },
-        { "name": "Clay Ash", "image": "img/bed_sheets_p3_img_1.webp" }
+        { "name": " Grey", "image": "img/bed_sheets_p2_img_1.webp" },
+        { "name": "Green", "image": "img/bed_sheets_p3_img_1.webp" }
   
       ],
       "type": [
