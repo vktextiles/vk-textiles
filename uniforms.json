@@ -58,7 +58,7 @@
       "category": "Hospital",
       "price":"650",
       "colors": [
-        { "name": "Green Ash", "image": "img/Threater_boy_dresses_p1_img_1_1.webp" },
+        { "name": "Blue", "image": "img/Threater_boy_dresses_p1_img_1_1.webp" },
         { "name": "Green", "image": "img/Threater_boy_dresses_p2_img_1_1.webp" },
         { "name": "Gray", "image": "img/Threater_boy_dresses_p3_img_1_1.webp" }
         
@@ -78,7 +78,7 @@
       "colors": [
         { "name": "Sky Blue", "image": "img/Surgeon_Gown_p1_img_1.webp" },
         { "name": "Green", "image": "img/Surgeon_Gown_p2_img_1.webp" },
-        { "name": "Slate Gray", "image": "img/Surgeon_Gown_p3_img_1.webp" }
+        { "name": "Gray", "image": "img/Surgeon_Gown_p3_img_1.webp" }
       ],
       "type": [
         { "label": "Delux Rate", "price": 550 },
@@ -95,7 +95,7 @@
       "colors": [
        
         { "name": "Green", "image": "img/ortho_doctor_gown_p2_img_1.webp" },
-        { "name": "Ash", "image": "img/ortho_doctor_gown_p1_img_1.webp" }
+        { "name": "Sky Blue", "image": "img/ortho_doctor_gown_p1_img_1.webp" }
       ],
       "type": [
         { "label": "Delux Rate", "price": 650 },
@@ -149,8 +149,8 @@
        
        
         { "name": "Green", "image": "img/sisters_uniform_p2_img_1.webp" },
-        { "name": "Ash", "image": "img/sisters_uniform_p1_img_1.webp" },
-        { "name": "Brown", "image": "img/sisters_uniform_p3_img_1.webp" }
+        { "name": "Sky Blue", "image": "img/sisters_uniform_p1_img_1.webp" },
+        { "name": "Ash", "image": "img/sisters_uniform_p3_img_1.webp" }
         
       ],
       "type": [
