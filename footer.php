@@ -18,9 +18,10 @@
         <div class="col-md-4 mb-4 mb-md-0">
           <h5 class="footer-heading">Contact Us</h5>
           <ul class="list-unstyled text-light small">
-            <li class="mt-2"><i class="fas fa-phone-alt me-2"></i>+91 9885686760</li>
+            <li class="mt-2"><i class="fas fa-phone-alt me-2"></i>+91 9885686760 9063158820</li>
             <li class="mt-2"><i class="fas fa-envelope me-2"></i>vkgroupoftextiles@gmail.com</li>
-            <li class="mt-2"><i class="fas fa-map-marker-alt me-2"></i>128-104 Ramannapet warangal Near water <br>tank Warangal Andhra Pradesh-506002</li>
+                 <li class="mt-2"><i class="fas fa-envelope me-2"></i>GST NO: 36CUJPV2259P1ZN</li>
+            <li class="mt-2"><i class="fas fa-map-marker-alt me-2"></i>12-8-164 Ramannapet warangal Near water <br>tank Warangal Andhra Pradesh-506002</li>
           </ul>
         </div>
 
